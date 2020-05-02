@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Persona Timer</string>
+  <string name="yourScore">Your Score: %1$d</string>
+  <string name="timeLeft">Time left: %1$d</string>
+  <string name="tapMe">Start Timer</string>
+  <string name="gameOverMessage">You deserve to listen to this song now</string>
+</resources>
